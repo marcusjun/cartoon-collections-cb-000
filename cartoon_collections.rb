@@ -8,7 +8,7 @@ def summon_captain_planet(planeteer)# code an argument here
   #collection=[]
   planeteer.map do |word|
     word.capitalize << "!"
-    word<<"!"
+    #word<<"!"
     #collection<<word
   end
   #collection
